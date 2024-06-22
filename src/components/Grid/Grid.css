@@ -1,0 +1,15 @@
+.grid{
+    height: 500px;;
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.turn-highlight{
+    color: white;
+}
+.reset{
+    display: block;
+    margin-top: 10px;
+}
